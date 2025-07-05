@@ -9,8 +9,8 @@ import {
   View,
 } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
-import CartButton from "../components/CartButton";
-import { images, offers } from "../constants/indes";
+import CartButton from "../../components/CartButton";
+import { images, offers } from "../../constants/indes";
 
 export default function App() {
   return (
